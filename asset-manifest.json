@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-food-ordering-system/static/css/main.f73b8219.css",
+    "main.js": "/React-food-ordering-system/static/js/main.c1b09a25.js",
+    "static/js/592.af10cdcd.chunk.js": "/React-food-ordering-system/static/js/592.af10cdcd.chunk.js",
+    "static/media/brazilian-food-assortment-with-board.jpg": "/React-food-ordering-system/static/media/brazilian-food-assortment-with-board.643564a6cc5f4e1ca1d9.jpg",
+    "index.html": "/React-food-ordering-system/index.html",
+    "main.f73b8219.css.map": "/React-food-ordering-system/static/css/main.f73b8219.css.map",
+    "main.c1b09a25.js.map": "/React-food-ordering-system/static/js/main.c1b09a25.js.map",
+    "592.af10cdcd.chunk.js.map": "/React-food-ordering-system/static/js/592.af10cdcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73b8219.css",
+    "static/js/main.c1b09a25.js"
+  ]
+}
